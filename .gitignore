@@ -1,0 +1,33 @@
+# Dados temporários gerados pela Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Compilações
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# Arquivos gerados pelo Visual Studio e Rider
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+
+# Cache do Gradle
+.gradle/
+
+# Arquivos temporários e de falha
+*.tmp
+*.log
+sysinfo.txt
+mono_crash.*
